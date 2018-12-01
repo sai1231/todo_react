@@ -5,7 +5,6 @@ import TodoFooter from "./TodoFooter";
 class TodoAdd extends Component {
   state = {
     todoText: "",
-
     todolist: []
   };
 
